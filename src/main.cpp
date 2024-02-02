@@ -104,6 +104,7 @@ int main () {
             std::cout << "~~~~~~~~~~~~~~~~~~~~" << std::endl;
             std::cout << "~~~~ Goalに到着 ~~~~~" << std::endl;
             std::cout << "~~~~~~~~~~~~~~~~~~~~" << std::endl;
+            break;
         } else if (MyCar.fuel <= 0) {
             std::cout << "###############################################" << std::endl;
             std::cout << "#############  Fuel is empty  #################" << std::endl;
